@@ -13,8 +13,8 @@ Diogo Soares - 93263 - @IGE-93263.
 
 ## Membros do grupo
 
-| Curso | Nº | Nome |
-|------|---:|------|
-| <CURSO> | 123762 | Rodrigo Emanuel dos Santos Couceiro |
-| <CURSO> | <NÚMERO> | <NOME> |
-| <CURSO> | <NÚMERO> | <NOME> |
+| Curso | Nº | Nome | Nickname |
+|---|---|---|---|
+| LIGE-PL | 123762 | Rodrigo Emanuel dos Santos Couceiro |
+| LIGE-PL | 93263 | Diogo Soares | IGE-93262 |
+| LIGE-PL | <NÚMERO> | <NOME> |
