@@ -26,3 +26,7 @@ Correspondência entre navios atuais e embarcações da época dos Descobrimento
 | Navio de 3 canhões | Nau | Carrack | 3 | 2 |
 | Navio de 2 canhões | Caravela | Caravel | 2 | 3 |
 | Submarino | Barca | Barge | 1 | 4 |
+
+
+## Regras do Jogo
+Cada jogador deve posicionar os seus navios. Depois dos navios terem sido posicionados, cada jogador, a vez, atira tres tiros sobre a frota adversaria, referindo as respectivas coordenadas dos tiros (linha, coluna). O adversario deve referir o resultado dessa rajada de tres tiros, informando se acertou em um ou mais navios e de que tipo, bem como os tiros na agua! Cada jogador vai registando na grelha do oponente os resultados dos seus tiros, identi cando os navios afundados. Ganha o jogo o primeiro que atingir todos os navios da frota adversaria.
