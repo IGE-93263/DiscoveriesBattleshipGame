@@ -30,3 +30,26 @@ Correspondência entre navios atuais e embarcações da época dos Descobrimento
 
 ## Regras do Jogo
 Cada jogador deve posicionar os seus navios. Depois dos navios terem sido posicionados, cada jogador, a vez, atira tres tiros sobre a frota adversaria, referindo as respectivas coordenadas dos tiros (linha, coluna). O adversario deve referir o resultado dessa rajada de tres tiros, informando se acertou em um ou mais navios e de que tipo, bem como os tiros na agua! Cada jogador vai registando na grelha do oponente os resultados dos seus tiros, identi cando os navios afundados. Ganha o jogo o primeiro que atingir todos os navios da frota adversaria.
+
+## 🏺 Navios dos Descobrimentos
+
+Para quem deseja conhecer melhor as embarcações que deram origem às unidades do nosso jogo, aqui estão os registos históricos:
+
+* **[Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)** (Porta-aviões) – O gigante dos mares, fortemente armado e usado para escolta e transporte de tesouros.
+* **[Fragata](https://pt.wikipedia.org/wiki/Fragata)** (Navio de 4 canhões) – Um navio de guerra rápido e versátil, focado na manobrabilidade e combate.
+* **[Nau](https://pt.wikipedia.org/wiki/Nau)** (Navio de 3 canhões) – A embarcação de grande porte por excelência das rotas comerciais para a Índia.
+* **[Caravela](https://pt.wikipedia.org/wiki/Caravela)** (Navio de 2 canhões) – O ícone dos Descobrimentos, famosa pelas suas velas latinas que permitiam navegar contra o vento.
+* **[Barca](https://pt.wikipedia.org/wiki/Barca)** (Submarino) – Uma embarcação mais simples e pequena, usada nas explorações costeiras iniciais da costa africana.
+
+> [!TIP]
+> Sabias que a Caravela foi o primeiro navio a permitir que os marinheiros portugueses do século XV explorassem o alto mar com maior segurança e rapidez?
+
+### 🖼️ Galeria Histórica
+
+| Galeão | Caravela | Nau |
+|:---:|:---:|:---:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Galeon_espa%C3%B1ol.jpg/200px-Galeon_espa%C3%B1ol.jpg" width="200px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Portuguese_caravel_-_Vera_Cruz.jpg/200px-Portuguese_caravel_-_Vera_Cruz.jpg" width="200px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Portuguese_Indiamen_-_Livro_das_Armadas.jpg/200px-Portuguese_Indiamen_-_Livro_das_Armadas.jpg" width="200px"> |
+| _O poder de fogo_ | _A agilidade dos ventos_ | _A gigante do comércio_ |
+
+---
+> 
