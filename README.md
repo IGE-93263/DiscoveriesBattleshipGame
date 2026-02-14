@@ -44,12 +44,3 @@ Para quem deseja conhecer melhor as embarcações que deram origem às unidades 
 > [!TIP]
 > Sabias que a Caravela foi o primeiro navio a permitir que os marinheiros portugueses do século XV explorassem o alto mar com maior segurança e rapidez?
 
-### 🖼️ Galeria Histórica
-
-| Galeão | Caravela | Nau |
-|:---:|:---:|:---:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Galeon_espa%C3%B1ol.jpg/200px-Galeon_espa%C3%B1ol.jpg" width="200px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Portuguese_caravel_-_Vera_Cruz.jpg/200px-Portuguese_caravel_-_Vera_Cruz.jpg" width="200px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Portuguese_Indiamen_-_Livro_das_Armadas.jpg/200px-Portuguese_Indiamen_-_Livro_das_Armadas.jpg" width="200px"> |
-| _O poder de fogo_ | _A agilidade dos ventos_ | _A gigante do comércio_ |
-
----
-> 
