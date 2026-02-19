@@ -1,0 +1,34 @@
+name: Notificar Revisor do PR
+
+# O workflow é acionado sempre que um revisor é solicitado num PR
+on:
+  pull_request:
+    types: [review_requested]
+
+jobs:
+  notificar_colega:
+    name: Adicionar comentário a mencionar o revisor
+    runs-on: ubuntu-latest
+    
+    # Permissões necessárias para que o bot possa escrever no PR
+    permissions:
+      pull-requests: write 
+
+    steps:
+      - name: Comentar no Pull Request
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // Captura o username do revisor que acabou de ser solicitado
+            const reviewer = context.payload.requested_reviewer.login;
+            
+            // Captura o username do autor do Pull Request
+            const author = context.payload.pull_request.user.login;
+            
+            // Cria o comentário no PR
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `👋 Olá @${reviewer}! O(a) @${author} acabou de solicitar a tua revisão neste Pull Request. Quando tiveres um momento, podes dar uma vista de olhos? 🚀`
+            });
