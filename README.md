@@ -29,7 +29,7 @@ Correspondência entre navios atuais e embarcações da época dos Descobrimento
 
 
 ## Regras do Jogo
-Cada jogador deve posicionar os seus navios. Depois dos navios terem sido posicionados, cada jogador, a vez, atira tres tiros sobre a frota adversaria, referindo as respectivas coordenadas dos tiros (linha, coluna). O adversario deve referir o resultado dessa rajada de tres tiros, informando se acertou em um ou mais navios e de que tipo, bem como os tiros na agua! Cada jogador vai registando na grelha do oponente os resultados dos seus tiros, identi cando os navios afundados. Ganha o jogo o primeiro que atingir todos os navios da frota adversaria.
+Cada jogador deve posicionar os seus navios. Depois dos navios terem sido posicionados, cada jogador, a vez, atira três tiros sobre a frota adversária, referindo as respectivas coordenadas dos tiros (linha, coluna). O adversario deve referir o resultado dessa rajada de três tiros, informando se acertou em um ou mais navios e de que tipo, bem como os tiros na água! Cada jogador vai registando na grelha do oponente os resultados dos seus tiros, identificando os navios afundados. Ganha o jogo o primeiro que atingir todos os navios da frota adversária.
 
 ## 🏺 Navios dos Descobrimentos
 
@@ -40,6 +40,15 @@ Para quem deseja conhecer melhor as embarcações que deram origem às unidades 
 * **[Nau](https://pt.wikipedia.org/wiki/Nau)** (Navio de 3 canhões) – A embarcação de grande porte por excelência das rotas comerciais para a Índia.
 * **[Caravela](https://pt.wikipedia.org/wiki/Caravela)** (Navio de 2 canhões) – O ícone dos Descobrimentos, famosa pelas suas velas latinas que permitiam navegar contra o vento.
 * **[Barca](https://pt.wikipedia.org/wiki/Barca)** (Submarino) – Uma embarcação mais simples e pequena, usada nas explorações costeiras iniciais da costa africana.
+
+
+
+| Galeão | Fragata | Nau | Caravela | Barca |
+|--------|---------|-----|----------|--------|
+| ![Galeão](https://upload.wikimedia.org/wikipedia/commons/0/08/Spanish_Galleon.jpg) | ![Fragata](https://upload.wikimedia.org/wikipedia/commons/0/0b/20121026_0433_Almada_%26_Cacilhas_05.jpg) | ![Nau](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Santa-Maria.jpg/960px-Santa-Maria.jpg) | ![Caravela](https://upload.wikimedia.org/wikipedia/commons/a/a2/Caravela_Vera_Cruz_no_rio_Tejo.jpg) | ![Barca](https://cultura.marinha.pt/pt/PublishingImages/mm_rz.jpg) |
+
+
+
 
 > [!TIP]
 > Sabias que a Caravela foi o primeiro navio a permitir que os marinheiros portugueses do século XV explorassem o alto mar com maior segurança e rapidez?
