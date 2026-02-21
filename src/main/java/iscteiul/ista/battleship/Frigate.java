@@ -1,5 +1,6 @@
 /**
  * Pacote que contém as classes relacionadas com a lógica do jogo Batalha Naval (Battleship).
+ 
  */
 package iscteiul.ista.battleship;
 
