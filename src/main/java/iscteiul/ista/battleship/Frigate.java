@@ -31,7 +31,7 @@ public class Frigate extends Ship {
 
     /*
      * (non-Javadoc)
-     *
+     * test
      * @see battleship.Ship#getSize()
      */
     @Override
