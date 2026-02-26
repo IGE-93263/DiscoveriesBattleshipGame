@@ -55,7 +55,7 @@ public class Frigate extends Ship {
 
     /**
      * Obtém o tamanho da Fragata.
-     * 
+     *  teste Rodr to delete
      * @return  O número de células que este navio ocupa no tabuleiro (4).
      */
     @Override
