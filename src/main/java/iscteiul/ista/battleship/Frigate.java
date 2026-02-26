@@ -56,7 +56,7 @@ public class Frigate extends Ship {
     /**
      * Obtém o tamanho da Fragata.
      * 
-     * @return O número de células que este navio ocupa no tabuleiro (4).
+     * @return  O número de células que este navio ocupa no tabuleiro (4).
      */
     @Override
     public Integer getSize() {
