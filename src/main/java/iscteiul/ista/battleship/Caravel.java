@@ -44,7 +44,7 @@ public class Caravel extends Ship {
 
     }
 
-    /*
+    /**
      * Devolve o tamanho ocupado pela Caravela no tabuleiro.
      *
      * @return o tamanho do navio (sempre 2 para a Caravela)
