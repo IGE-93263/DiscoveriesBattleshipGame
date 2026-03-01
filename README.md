@@ -50,6 +50,8 @@ Para quem deseja conhecer melhor as embarcações que deram origem às unidades 
 
 
 
+ISCTE - 2026
+
 > [!TIP]
 > Sabias que a Caravela foi o primeiro navio a permitir que os marinheiros portugueses do século XV explorassem o alto mar com maior segurança e rapidez?
 
